@@ -1,0 +1,14 @@
+{
+  "name": "modulo3",
+  "version": "1.0.0",
+  "description": "Modulo 3 Cousey",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arling Holguin",
+  "license": "MIT",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
